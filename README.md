@@ -1,4 +1,6 @@
-### Olá!! Eu sou Rafael Fabiano😁
+### Hello world!! I am Rafael Fabiano😁
+studying computer engineering
+
 
 <div align="start">
   <a href="https://github.com/rafapili">
