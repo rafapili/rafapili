@@ -2,8 +2,8 @@
 
 <div align="start">
   <a href="https://github.com/rafapili">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=rafapili&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapili&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rafapili&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapili&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
 
