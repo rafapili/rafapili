@@ -1,5 +1,5 @@
 ### Hello world!! I am Rafael Fabiano😁
-studying computer engineering
+💻studying computer engineering
 
 
 <div align="start">
