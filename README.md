@@ -1,9 +1,8 @@
 
 ### 👋 Hello World! I am Rafael Fabiano 😁
 
-🎓 Estudante de Engenharia da Computação  
-💻 Apaixonado por desenvolvimento web, automações e tecnologia  
-🚀 Atualmente explorando Python, JavaScript e ferramentas de automação
+🎓 computer engineer
+💻 Passionate about web development, automation, technology and games
 
 ---
 
